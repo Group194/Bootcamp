@@ -2,8 +2,11 @@
 
 Takım İsmi
 PsyTrack
+
 Ürün İle İlgili Bilgiler
+
 Psikiyatri kliniklerinde, kliniğe gelen hastaların ilk aşamada değerlendirilmesini kolaylaştıran; depresyon, anksiyete, bipolar bozukluk gibi yaygın psikolojik rahatsızlıklar için ön tarama yapan, doktora takip verisi sunan yapay zeka destekli bir sistem oluşturulması hedeflenmektedir.
+
 Takım Elemanları
 Esma Işıl ŞENYURT- Scrum Master
 
@@ -12,6 +15,7 @@ Esma Işıl ŞENYURT- Scrum Master
 
 Ürün Açıklaması
 Psikiyatri kliniklerinde, kliniğe gelen hastaların ilk aşamada değerlendirilmesini kolaylaştıran; depresyon, anksiyete, bipolar bozukluk gibi yaygın psikolojik rahatsızlıklar için ön tarama yapan, doktora takip verisi sunan yapay zeka destekli bir sistem oluşturulması hedeflenmektedir.
+
 Çalışma Stili:
 Hasta, randevudan önce telefonuna gelen veya klinikte erişebileceği formu doldurur.
 Bu formda, PHQ-9 (depresyon), GAD-7 (anksiyete), Uyku problemleri, İntihar riski vb. gibi soruların oluştuğu soru listesi bulunur. 
@@ -25,6 +29,7 @@ Birincil fonksiyonu:
 Süreçleri kişiselleştirir ve doktorun karar alma ve takip sürecine yardımcı olur. 
 Hastada farkındalığın artmasına yardımcı olur.
 Hastada farkındalığı artırır.
+
 Hedef Kitle
 Psikiyatrisler
 Psikologlar
