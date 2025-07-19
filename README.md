@@ -83,6 +83,12 @@ Takım içindeki görev dağılımıyla ilgili netleşmeler yapılmıştır.
 Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 # SPRINT 2
+# Sprint içinde tamamlanması tahmin edilen puan:
+100 Puan
+
+# Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
 
 # Trello Link: 
 
