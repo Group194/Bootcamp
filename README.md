@@ -1,4 +1,4 @@
-# Bootcamp
+# BOOTCAMP
 
 # Takım İsmi
 PsyTrack
@@ -53,7 +53,7 @@ Klinik veritabanı entegrasyonu
 JSON/HL7 destekli API
 
 
-# Sprint 1
+# SPRINT 1
 # Sprint içinde tamamlanması tahmin edilen puan:
 100 Puan
 
@@ -81,7 +81,7 @@ Roller ile ilgili kararlaştırmalar yapılmıştır.
 Takım içindeki görev dağılımıyla ilgili netleşmeler yapılmıştır.
 Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
-# Sprint 2
+# SPRINT 2
 
 # Trello Link: 
 
