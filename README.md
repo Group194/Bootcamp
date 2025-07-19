@@ -40,7 +40,7 @@ Psikologlar
 Aile sağlığı merkezi doktorları
 Psikilojik rahatsızlık çeken hastalar ve yakınları
 
-⚙️ Kullanılması Planlanan Teknolojiler:
+# Kullanılması Planlanan Teknolojiler:
 Bileşen
 Teknoloji
 Form sistemi
