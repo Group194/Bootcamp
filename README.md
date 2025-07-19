@@ -143,3 +143,7 @@ Alınan kararlar: Bir önceki sprintte karar verilen konsepte ve ürün içeriğ
 # Sprint Review katılımcıları: 
 
 Esma Işıl ŞENYURT, İrem Gül ER, Cansu KIZILARMUT, Cenker ZEYBEK
+
+# Sprint Retrospective:
+
+Roller netleştirilmiştir. Proje durumu güncelleştirilmiş, geliştirilmiş ve planlanan görsel de oluşturulmuştur. Proje uygulamasına geçişe başlanmıştır.
