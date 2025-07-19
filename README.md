@@ -100,7 +100,9 @@ https://trello.com/invite/b/6876a752e2188089381dc7bd/ATTI4cb69f767f77928a0e1048e
 
 # Daily Scrum: 
 
-Daily Scrum görüşmeleri whatsapptan yapılmakta ve haftalık müsaitlikte meetten görüşme sağlanmaktadır.
+Daily Scrum görüşmeleri whatsapptan yapılmakta ve haftalık müsaitlikte meetten görüşme sağlanmaktadır. Örnek konuşma:
+<img width="1303" height="817" alt="image" src="https://github.com/user-attachments/assets/466a7efd-7fb5-42f2-ac08-5a53ab018d22" />
+<img width="1325" height="825" alt="image" src="https://github.com/user-attachments/assets/691efdfb-c083-4dd5-a830-07053a0da311" />
 
 # Sprint board update: 
 
