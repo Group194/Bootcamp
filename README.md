@@ -1,26 +1,26 @@
-<img width="2048" height="2048" alt="Gemini_Generated_Image_vflt6vflt6vflt6v" src="https://github.com/user-attachments/assets/a62dc6eb-2cf3-456f-a0ce-cddbdf82f1c8" /># Bootcamp
+# Bootcamp
 
-Takım İsmi
+# Takım İsmi
 PsyTrack
 
-Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler
 
 Psikiyatri kliniklerinde, kliniğe gelen hastaların ilk aşamada değerlendirilmesini kolaylaştıran; depresyon, anksiyete, bipolar bozukluk gibi yaygın psikolojik rahatsızlıklar için ön tarama yapan, doktora takip verisi sunan yapay zeka destekli bir sistem oluşturulması hedeflenmektedir.
 
-Takım Elemanları
+# Takım Elemanları
 Esma Işıl ŞENYURT- Scrum Master, Developer
 İrem Gül ER - Product Owner, Developer
 Cansu KIZILARMUT - Developer
 Cenker ZEYBEK - Developer
 Bilal ÖRGEN- inaktif
 
-Ürün İsmi
+# Ürün İsmi
 --PsyTrack AI--
 
-Ürün Açıklaması
+# Ürün Açıklaması
 Psikiyatri kliniklerinde, kliniğe gelen hastaların ilk aşamada değerlendirilmesini kolaylaştıran; depresyon, anksiyete, bipolar bozukluk gibi yaygın psikolojik rahatsızlıklar için ön tarama yapan, doktora takip verisi sunan yapay zeka destekli bir sistem oluşturulması hedeflenmektedir.
 
-Çalışma Stili:
+# Çalışma Stili:
 Hasta, randevudan önce telefonuna gelen veya klinikte erişebileceği formu doldurur.
 Bu formda, PHQ-9 (depresyon), GAD-7 (anksiyete), Uyku problemleri, İntihar riski vb. gibi soruların oluştuğu soru listesi bulunur. 
 Yapay zeka, hastanın yanıtlarını veri analiz eder.
@@ -28,13 +28,13 @@ Yapay zeka, elde ettiği sonuçları doktor ile özetleyerek paylaşır. (Örne�
 Hasta, kendi durumunu kısaca, talep edilen zaman aralıklarıyla sisteme bildirir.
 Doktor/hastane, iyileşme-gidişat grafiklerini görebilecektir.
 
-Birincil fonksiyonu: 
+# Birincil fonksiyonu: 
 İlk görüşmede geçen zamanı azaltarak klinik yükü azaltır. 
 Süreçleri kişiselleştirir ve doktorun karar alma ve takip sürecine yardımcı olur. 
 Hastada farkındalığın artmasına yardımcı olur.
 Hastada farkındalığı artırır.
 
-Hedef Kitle
+# Hedef Kitle
 Psikiyatrisler
 Psikologlar
 Aile sağlığı merkezi doktorları
@@ -54,21 +54,28 @@ JSON/HL7 destekli API
 
 
 # Sprint 1
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+# Sprint içinde tamamlanması tahmin edilen puan:
+100 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+# Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-Link: https://bootcamp194.atlassian.net/jira/core/projects/B1/board?groupBy=status&atlOrigin=eyJpIjoiZmRjMzM1OGQ3MTIxNDljOGExNWI2NDYyNWYyNzc5YTciLCJwIjoiaiJ9
+# Link:
+https://bootcamp194.atlassian.net/jira/core/projects/B1/board?groupBy=status&atlOrigin=eyJpIjoiZmRjMzM1OGQ3MTIxNDljOGExNWI2NDYyNWYyNzc5YTciLCJwIjoiaiJ9
 
-Daily Scrum: Daily Scrum görüşmeleri whatsapp grubundan yapılmaktadır. 
+# Daily Scrum:
+Daily Scrum görüşmeleri whatsapp grubundan yapılmaktadır. 
 
-Sprint board update: Sprint board screenshotları: Backlog 1
+# Sprint board update:
+Sprint board screenshotları: Backlog 1
 
-Ürün Durumu: Henüz fikir geliştirilmesi aşamasındadır. 
+# Ürün Durumu: 
+Henüz fikir geliştirilmesi aşamasındadır. 
 
-Sprint Review: Alınan kararlar: Sağlık sektöründeki eksiklikler araştırılmış, konsepte karar verilmiştir. Genel zaman eksikliğinden, bu sprintte gelecek spirntlere dair planlama gerçekleştirilmiştir. Sprint Review katılımcıları: Esma Işıl ŞENYURT
+# Sprint Review: 
+Alınan kararlar: Sağlık sektöründeki eksiklikler araştırılmış, konsepte karar verilmiştir. Genel zaman eksikliğinden, bu sprintte gelecek spirntlere dair planlama gerçekleştirilmiştir. Sprint Review katılımcıları: Esma Işıl ŞENYURT
 
-Sprint Retrospective:
+# Sprint Retrospective:
 
 Roller ile ilgili kararlaştırmalar yapılmıştır.
 Takım içindeki görev dağılımıyla ilgili netleşmeler yapılmıştır.
