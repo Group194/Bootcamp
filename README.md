@@ -9,9 +9,13 @@ Psikiyatri kliniklerinde, kliniğe gelen hastaların ilk aşamada değerlendiril
 
 # Takım Elemanları
 Esma Işıl ŞENYURT- Scrum Master, Developer
+
 İrem Gül ER - Product Owner, Developer
+
 Cansu KIZILARMUT - Developer
+
 Cenker ZEYBEK - Developer
+
 Bilal ÖRGEN- inaktif
 
 # Ürün İsmi
