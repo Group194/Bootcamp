@@ -1,4 +1,4 @@
-# Bootcamp
+<img width="2048" height="2048" alt="Gemini_Generated_Image_vflt6vflt6vflt6v" src="https://github.com/user-attachments/assets/a62dc6eb-2cf3-456f-a0ce-cddbdf82f1c8" /># Bootcamp
 
 Takım İsmi
 PsyTrack
@@ -8,7 +8,11 @@ PsyTrack
 Psikiyatri kliniklerinde, kliniğe gelen hastaların ilk aşamada değerlendirilmesini kolaylaştıran; depresyon, anksiyete, bipolar bozukluk gibi yaygın psikolojik rahatsızlıklar için ön tarama yapan, doktora takip verisi sunan yapay zeka destekli bir sistem oluşturulması hedeflenmektedir.
 
 Takım Elemanları
-Esma Işıl ŞENYURT- Scrum Master
+Esma Işıl ŞENYURT- Scrum Master, Developer
+İrem Gül ER - Product Owner, Developer
+Cansu KIZILARMUT - Developer
+Cenker ZEYBEK - Developer
+Bilal ÖRGEN- inaktif
 
 Ürün İsmi
 --PsyTrack AI--
@@ -49,7 +53,7 @@ Klinik veritabanı entegrasyonu
 JSON/HL7 destekli API
 
 
-Sprint 1
+# Sprint 1
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
@@ -69,3 +73,54 @@ Sprint Retrospective:
 Roller ile ilgili kararlaştırmalar yapılmıştır.
 Takım içindeki görev dağılımıyla ilgili netleşmeler yapılmıştır.
 Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+# Sprint 2
+
+# Trello Link: 
+
+https://trello.com/invite/b/6876a752e2188089381dc7bd/ATTI4cb69f767f77928a0e1048edca2320c57527CA20/trello-panom
+
+# Daily Scrum: 
+
+Daily Scrum görüşmeleri whatsapptan yapılmakta ve haftalık müsaitlikte meetten görüşme sağlanmaktadır.
+
+# Sprint board update: 
+
+Sprint board screenshotları: Backlog 1
+
+# Ürün Durumu: 
+
+Ürün için gerekli teknolojilere dair araştırmalar yapılmıştır ve kararlaştırma yapılmıştır.
+Psikolojik rahatsızlıkları erken fark edebilmek için sistemimize iki basit ama etkili özellik eklemeyi öneriyoruz:
+
+# 1. Günlük Duygu Takibi
+Kullanıcı, her gün sadece bir dakikasını ayırarak "Bugün kendinizi nasıl hissediyorsunuz?" gibi basit bir soruya emoji veya yüz ifadeleriyle yanıt verebilir, isterse kısa bir cümleyle gününü anlatabilir. Bu kısa bildirimler kaydedilerek zamanla "Bu hafta nasıl geçti?" gibi genel bir duygu tablosu oluşturulur. Bu sayede hem kullanıcı sıkılmadan düzenli olarak duygu durumunu takip edebilir, hem de klinisyenler, zaman içindeki ruh hali değişimlerini kolayca gözlemleyebilir. Bu düzenli ve sistematik veri akışı, psikolojik rahatsızlıkların erken belirtilerini saptamada veya mevcut durumun seyrini anlamada önemli bir bilimsel temel sunar. Duygu durumundaki belirgin ve sürekli değişimler, depresyon, anksiyete veya bipolar bozukluk gibi yaygın psikopatolojilerin öncü göstergeleri olarak değerlendirilebilir, böylece daha erken ve etkili müdahale imkanı sağlanır.
+
+<img width="1024" height="766" alt="Gemini_Generated_Image_lmmeylmmeylmmeyl" src="https://github.com/user-attachments/assets/836b3ad4-ae06-4f5f-976a-9e889c74af6d" />
+
+# 2. Akıllı Risk Skoru ve Hedefe Yönelik Geri Bildirim
+Kullanıcının verdiği yanıtlara göre sistem, arka planda basit bir "risk puanı" hesaplar. Bu puan, kullanıcının mevcut psikolojik durumunun iyi mi, yoksa dikkat edilmesi gereken bir seviyede mi olduğunu gösterir. Kullanıcıya bu puan doğrudan açıklanmaz; bunun yerine, "Bugün iyi gidiyorsun!" veya "Biraz zor bir gün olabilir, istersen biraz dinlen." gibi basit ve destekleyici mesajlar sunulur. Klinisyenler için ise bu puan, özel bir ekranda renk kodlarıyla görselleştirilir:
+
+- Yeşil: Kullanıcı iyi durumda.
+- Sarı: Kullanıcının takibi gerekli.
+- Kırmızı: Acil müdahale veya daha yakından takip gerekebilir.
+
+Bu sistem sayesinde kullanıcı kendini desteklenmiş hissederken, klinisyenler de hastalarının riskli durumlarını hızla fark ederek erken ve etkin müdahale imkanı bulur. Bu yaklaşım, tanı ve tedavi süreçlerini bilimsel verilerle desteklerken, hasta-hekim iletişimini de güçlendirir.
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_vflt6vflt6vflt6v" src="https://github.com/user-attachments/assets/1062d9e4-342c-4923-95a0-780115879f85" />
+
+Bu sistemi bir web sitesi gibi düşünebiliriz. Kullanıcılar her gün o siteye girip, kendilerine sorulan soruları basitçe tıklayarak veya içlerinden geldiği gibi kısa notlar yazarak yanıtlayacaklar. Bu cevaplar anında sistemimizde güvenle kaydedilecek. Sonra sistemimiz, bu verileri kullanarak küçük hesaplamalar yapacak ve size özel mesajlar ile birlikte, zaman içindeki duygu durumunuzu gösteren güzel grafikler oluşturacak. Tüm bunları yapmak için, aslında çok teknik bilgiye ihtiyacımız yok; hazır görsel araçlar veya kullanıma hazır yazılım kütüphaneleriyle kolayca halledebileceğiz.
+
+# Bu yolu seçmemizin birkaç önemli nedeni var:
+- Sıkıcı Değil, Keyifli: Bildiğimiz anketlere hiç benzemiyor; aksine, eğlenceli ve kullanımı çok kolay. Bu da insanların sistemi daha severek kullanmasını sağlıyor.
+- Zaman Kaybı Değil, Kazanç: Kullanıcılar için boşuna harcanmış bir zaman değil, tam tersi kendi iç dünyalarını daha iyi anlamalarına yardımcı olan ve hatta motive eden bir araç.
+- Doktorlara Büyük Kolaylık: Doktorlarımız için hastalarının durumunu hızlı ve etkili bir şekilde takip etme imkanı sunuyor. Böylece olası riskli durumları anında fark edip zamanında destek verebiliyorlar.
+- Herkes Kazanıyor: Hem kullanıcılar kendi psikolojik yolculuklarında güçlü bir destek buluyor hem de doktorlar daha bilinçli ve verimli kararlar alabiliyor. Kısacası, bu sistemden hem kullanıcı hem de doktor somut faydalar sağlıyor.
+
+# Sprint Review: 
+
+Alınan kararlar: Bir önceki sprintte karar verilen konsepte ve ürün içeriğine gelişmeler yapılmıştır. Jiro linkinde sorun yaşandığı için Trellodan sürecin yönetilmesine karar verilmiştir.
+
+# Sprint Review katılımcıları: 
+
+Esma Işıl ŞENYURT, İrem Gül ER, Cansu KIZILARMUT, Cenker ZEYBEK
