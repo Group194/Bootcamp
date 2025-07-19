@@ -68,7 +68,7 @@ Daily Scrum görüşmeleri whatsapp grubundan yapılmaktadır.
 
 # Sprint board update:
 Sprint board screenshot
-<img width="1447" height="551" alt="image" src="https://github.com/user-attachments/assets/de9141ef-15cd-454b-b5fb-0aef49de3902" />
+
 
 # Ürün Durumu: 
 Henüz fikir geliştirilmesi aşamasındadır. 
@@ -100,7 +100,8 @@ Daily Scrum görüşmeleri whatsapptan yapılmakta ve haftalık müsaitlikte mee
 
 # Sprint board update: 
 
-Sprint board screenshotları: Backlog 1
+Sprint board screenshotları: 
+<img width="1447" height="551" alt="image" src="https://github.com/user-attachments/assets/de9141ef-15cd-454b-b5fb-0aef49de3902" />
 
 # Ürün Durumu: 
 
