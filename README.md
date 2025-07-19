@@ -146,4 +146,4 @@ Esma Işıl ŞENYURT, İrem Gül ER, Cansu KIZILARMUT, Cenker ZEYBEK
 
 # Sprint Retrospective:
 
-Roller netleştirilmiştir. Proje durumu güncelleştirilmiş, geliştirilmiş ve planlanan görsel de oluşturulmuştur. Proje uygulamasına geçişe başlanmıştır.
+Roller netleştirilmiştir. Proje durumu güncelleştirilmiş, geliştirilmiş ve planlanan görsel de oluşturulmuştur. Proje uygulamasına geçişe başlanmıştır. Projenin oluşması için hızlanması hedeflenmelidir.
